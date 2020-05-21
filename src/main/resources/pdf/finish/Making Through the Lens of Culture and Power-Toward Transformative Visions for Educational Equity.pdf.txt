@@ -1,0 +1,1206 @@
+206
+Harvard Educational Review  Vol. 86 No. 2 Summer 2016
+Copyright © by the President and Fellows of Harvard College
+Making Through the Lens of Culture 
+and Power: Toward Transformative 
+Visions for Educational Equity 
+SHIRIN VOSSOUGHI
+PAULA K. HOOPER
+Northwestern University
+MEG ESCUDÉ
+Exploratorium.
+In this essay, Shirin Vossoughi, Paula Hooper, and Meg Escudé advance a critique 
+of branded, culturally normative definitions of making and caution against their 
+uncritical adoption into the educational sphere. The authors argue that the ways 
+making and equity are conceptualized can either restrict or expand the possibility that 
+the growing maker movement will contribute to intellectually generative and libera-
+tory educational experiences for working-class students and students of color. After 
+reviewing various perspectives on making as educative practice, they present a frame-
+work that treats the following principles as starting points for equity-oriented research 
+and design: critical analyses of educational injustice; historicized approaches to mak-
+ing as cross-cultural activity; explicit attention to pedagogical philosophies and prac-
+tices; and ongoing inquiry into the sociopolitical values and purposes of making. 
+These principles are grounded in their own research and teaching in the Tinkering 
+Afterschool Program as well as in the insights and questions raised by critical voices 
+both inside and outside the maker movement.
+In an interview for The Atlantic entitled “All Immigrants Are Artists,” Haitian 
+writer Edwidge Danticat (2013) ruminates on the forms of artistry and rein-
+vention embodied in the everyday lives of immigrant families. Through the 
+story of her mother, she describes the historical conditions that simultane-
+ously necessitated and constrained creativity and locates her mother’s seam-
+stressing in both material production and the quotidian beauty and dignity 
+of survival: “If you can’t afford clothes, but you can make them—make them. 
+207
+Making Through the Lens of Culture and Power
+shirin vossoughi,  paula k. hooper, and meg escudé
+You have to work with what you have, especially if you don’t have a lot of 
+money. You use creativity, and you use imagination” (Danticat, 2013, para. 8). 
+Significant in this essay, Danticat does not recast her mother as a maker or use 
+the now-popularized language of making to legitimate her capabilities. Rather, 
+through what she calls “the prism of art,” she locates her own work as a writer 
+in a tradition that includes the ingenuity born of tight circumstances (McDer-
+mott, 2010), an everyday practice that was both enmeshed in racialized and 
+gendered hierarchies and provided dynamic resources for her development 
+as an artist. 
+Danticat’s revelations about her parents also invite us to recognize the skill 
+and artistry demanded by the sociopolitical realities of migration, displace-
+ment, and economic hardship. She writes, “I realize now I saw artistic quali-
+ties in my parents’ choices—in their creativity, their steadfastness, the very 
+fact that we were in this country from another place. They’re like the artist 
+mentors people have in any discipline” (Danticat, 2013, para. 9). This egali-
+tarian view of human creativity is reflected in Eglash’s (2004) introduction to 
+Appropriating Technology, an edited volume that examines the role of the “lay 
+public” in the production of scientific knowledge. Challenging the dominant 
+view that those with greater social power produce technologies while those 
+with less social power consume them, Eglash studies the ways communities 
+reinvent and repurpose tools and artifacts, “often in ways that embody cri-
+tique, resistance and outright revolt” (p. vii). Examples include the vernacu-
+lar engineering of Latino car designers and the prevalence of environmental 
+analysis among rural women. Grounded in distinct disciplines, both Danticat 
+and Eglash “desettle” (Bang, Warren, Rosebery, & Medin, 2012) normative 
+understandings of artistic and scientific ingenuity, particularly with regard to 
+who we see as inventors, what we see as creativity, and on whose terms their ideas 
+and practices are valued. 
+We begin with these examples to intentionally challenge what is at risk of 
+becoming a dominant view of making in the United States. In its most nar-
+row, branded version, making is depicted as a uniquely American activity 
+focused on technological forms of innovation that advance hands-on learning 
+and contribute to the growth of the economy. This perspective is typified by a 
+2011 TED Talk delivered by a prominent voice of the maker movement, Make 
+Media founder and CEO Dale Dougherty. To illustrate how common it once 
+was to think of oneself as a maker, Dougherty shares a vintage 1960 Chevrolet 
+commercial entitled “American Maker.” The ad features two white boys build-
+ing a sand castle with an American flag planted at the top (see images 1 and 
+2). A male voice narrates: “Of all things Americans are, we are makers. With 
+our strengths and our minds and spirit, we gather, we form, and we fashion. 
+Makers and shapers and put-it-togetherers.” 
+Dougherty (2011) elaborates, drawing a connection to the current maker 
+movement by referencing the values he associates with the Chevrolet commer-
+cial: “You know, it was a sense of pride, that we made things. That the world 
+208
+Harvard Educational Review
+around us was made by us. It didn’t just exist. We made it.” He then shares 
+the contemporary story of another (white, male) maker who is uninterested 
+in school but gets involved in robotics competitions and eventually forms a 
+company that builds robots for automobile factories. The historical forms of 
+making Dougherty recognizes are grounded in gendered, white, middle-class 
+cultural practices—a woman baking a pie, a grandfather making a ship in a 
+bottle. And while Danticat describes how her mother became a great seam-
+stress by making her family’s clothes at a lower cost, Dougherty characterizes 
+makers as just “playing with technology . . . They don’t necessarily know what 
+they’re doing or why they’re doing it.”
+Mobilizing nostalgia for a bygone era, Dougherty also positions making as 
+an exceptional element of American identity—one that has been lost over 
+time. The image of the sandcastle with the flag, coupled with the notion that 
+the world around us was “made by us,” extends this nostalgia to American 
+hegemony, a time when US power and control were on the rise in the world, 
+and to a time when Detroit (the site of the 2011 TED Talk) was character-
+ized by economic growth rather than decline. Making, for Dougherty, is thus 
+a means to reclaim and leverage American ingenuity toward the revitalization 
+of American economic and political power. This is a specific, branded version 
+of making that, much like the Chevrolet ad, is aimed at expanding markets 
+and the profitability of companies like Maker Media (Buechley, 2013), which 
+describes itself as a “a global platform for connecting Makers with each other, 
+with products and services, and with our partners” (Maker Media, n.d.). 
+From this vantage point, the mainstream discourse of making is also dis-
+tinctly economic. Practices such as taking things apart, building new designs, 
+and testing out solutions are valued in so far as they contribute to new tech-
+nological and commercial innovations. For example, the White House (2015) 
+states that it “has continued to support opportunities for students to learn 
+about STEM through making, expand the resources available for maker entre-
+preneurs, and foster the development of advanced manufacturing in the U.S.” 
+Similarly, our review of references to the maker movement in the New York 
+Times, Los Angeles Times, San Francisco Chronicle, and Huffington Post revealed 
+that, with a few notable exceptions, the majority of articles focused on a nar-
+row set of actors (Maker Media, TechShop, Silicon Valley startups) and the 
+expensive tools and projects (3D printers, robotics, drones) associated with 
+makerspaces.1 The forms of ingenuity present in communities that are not 
+benefiting from dominant economic structures—such as material repair and 
+trade, hacking, making as social or artistic practice, and economic survival—
+are deemphasized. The broader purpose of making, according to this dis-
+course, is to cultivate and harness individual capabilities that will ultimately 
+contribute to corporate agendas and strengthen existing economic structures. 
+The ideological distance among the narratives presented by Dougherty, 
+Danticat, and Eglash sets up the central problem we seek to examine in this 
+209
+Making Through the Lens of Culture and Power
+shirin vossoughi,  paula k. hooper, and meg escudé
+Image 1. Title screen of film titled “American Maker, Presented by Chevrolet.”
+ 
+Image 2. Two white boys building a sand castle.
+210
+Harvard Educational Review
+article: the tensions and possibilities for equity-oriented education within the 
+current maker movement and the ways we might reconceptualize making as a 
+pedagogical practice that is grounded in the histories, needs, assets, and expe-
+riences of working-class students and students of color.
+The Maker Movement
+As a self-defined grassroots movement of backyard and kitchen tinkerers, hack-
+ers, designers, and inventors, the maker movement includes a range of perspec-
+tives on the definitions and purposes of making. As reflected in Dougherty’s 
+talk, corporate and governmental entities (MAKE Media, Maker Faires, the 
+White House, the Defense Advanced Research Projects Agency, Chevron, etc.) 
+often advance a branded version of making, first as an economic enterprise 
+and second as an educational endeavor. There is also a growing number of 
+makers, educators, and researchers who self-identify with the movement and 
+leverage the resources opened up by the first group to advance various edu-
+cational agendas, such as engaging young people in personally compelling, 
+creative investigations of the material and social worlds (Brahms, 2014; Marti-
+nez & Stager, 2013); democratizing access to the tools, skills, and discourses of 
+power previously available only to experts (Blikstein, 2013; Halverson & Sher-
+idan, 2014); and expanding participation in STEM fields through interest- 
+driven, multidisciplinary learning environments (Martin, 2015). Finally, there 
+are educators and researchers who engage in making and related practices 
+but, for various reasons, are critical of the broader movement and are some-
+times reluctant to identify with it. 
+We position ourselves with the third group and seek to examine critiques of 
+the maker movement in order to begin articulating an alternative conceptual 
+and pedagogical framework. In so doing, we aim to be mindful of the hetero-
+geneity within and across these groups while identifying the dangers present 
+in the uncritical adoption of branded versions of making, particularly with 
+regard to their implications for educational equity. We also intentionally reach 
+outside the movement to bring in alternative voices, like Danticat and Eglash, 
+who articulate critiques we see as germane to our argument.
+We begin by describing how making has been conceptualized across these 
+various actors, foregrounding popular critiques from a range of economic, 
+pedagogical, and feminist perspectives. We then consider how equity has been 
+conceptualized in the context of the maker movement and to what extent it 
+connects to existing research on the role of race, culture, epistemology, and 
+power in learning. This discussion carries over to the final section, where we 
+elaborate the alternative principles we believe need to be engaged by educa-
+tors, researchers, and policy makers if the current movement is to meaningfully 
+confront and transform— rather than reproduce—educational inequities.
+As researchers and educators, we are engaged in making programs with 
+young people from economically and racially marginalized communities in 
+211
+Making Through the Lens of Culture and Power
+shirin vossoughi,  paula k. hooper, and meg escudé
+the United States. More broadly, we locate ourselves in research on culture 
+and learning that is explicitly aimed at social and educational transformation 
+(Bang & Medin, 2010; Gutiérrez, 2008; Nasir, Rosebery, Warren, & Lee, 2006). 
+With this article, we intend to raise issues that we see missing from the litera-
+ture on making and to pose the questions we hope to pursue, with others, to 
+help construct transformative visions for educational equity. Ultimately, we 
+argue that the ways making and equity are conceptualized can either restrict 
+or expand the possibility that this movement will contribute to intellectually 
+generative and liberatory pedagogical practices for working-class students and 
+students of color.
+Conceptualizations of Making and the Maker Movement
+Martin (2015) traces the maker movement to the founding of Make magazine 
+in 2005 and the first Maker Faire in 2006, maintaining that “the basic activity 
+of making grows out of longstanding hobbies and crafts such as woodwork-
+ing, sewing, and electronics” (p. 30). For Halverson and Sheridan (2014), the 
+construction of physical objects and the ways people increasingly share their 
+processes and products in both physical and digital forums make the move-
+ment distinct from earlier computational and Internet revolutions. Honey 
+and Kanter (2013) define making as “building or adapting objects by hand, 
+for the simple pleasure of figuring out how things work” (p. 4). This view 
+of making as an essential human need and capacity is reflected in popular 
+media. As Alison Arieff (2015) writes in a New York Times editorial entitled 
+“Learning Through Tinkering,” “I’m a huge fan of modern conveniences. But 
+as we’ve become so disconnected from where things come from, from the 
+knowledge, resources and effort required to fulfill even the most basic needs, 
+I believe we’ve lost something essential (if intangible).” Arieff begins the piece 
+by describing a unit her daughter’s third-grade class was studying on “pio-
+neers,” through which the class learned about self-sufficiency and resilience. 
+Here, it is important to note that Arieff does not address the settler-colonial 
+dimensions (Calderon, 2014) of pioneer practices and identities; nor does 
+she unpack who “we” refers to in statements such as “we’ve become so dis-
+connected from where things come from.” In other words, the essay assumes 
+the universality of European-American middle- and upper-class experiences, a 
+standpoint from which to reconnect to working with one’s hands. 
+There is historical precedent for such assumptions and forms of erasure. 
+The early twentieth-century Arts and Crafts movement and associated progres-
+sive reforms in education were similar reactions to the Industrial Revolution 
+and textbook-centric curriculum. This largely European and North American 
+artistic movement was critical of mechanized, factory-based production and 
+advocated for a return to traditional craftsmanship. Similarly, progressive edu-
+cators of the time, such as John Dewey, sought to cultivate communal forms 
+of pedagogical activity that connected the hand and the mind. As Rose (2014) 
+212
+Harvard Educational Review
+notes, “Our discovery of making and tinkering is a rediscovery, one that seems 
+to emerge in reaction to social and economic trends that leave Americans 
+yearning to use their hands” (p. xxiv). While Rose appreciates the maker 
+movement’s attention to the cognitive skill and content of physical work, he 
+also describes the resurgence of making as a “middle-class movement”: 
+Working-class folk have not had the luxury of discovering making and tinkering; 
+they’ve been doing it all their lives to survive—and creating exchange networks 
+to facilitate it. Somebody across the street or down the road is a mechanic, or is 
+wise about home remedies, or does tile work, and you can swap your own skills 
+and services for that expertise (p. xxv).2 
+Barton, Tan, and Greenberg (in press) similarly describe the movement 
+as an “adult white, middle-class pursuit” shaped by leisure time and eco-
+nomic resources. Further, while making was a core part of vocational educa-
+tion throughout the twentieth century, it “never carried the status or buzz it 
+does now that it is more the domain of middle class kids—and includes sexy 
+digital technology” (Rose, 2014, p. xxv). We agree with these critiques and 
+believe they raise larger questions about the modes of inclusion practiced by 
+the maker movement—which often reach out to and invite in participants 
+who may have a very different historical and economic relationship to making 
+and working with one’s hands. In the process, working-class communities of 
+color are once again positioned as targets of intervention rather than sources 
+of deep knowledge and skill, and dominant communities are reinscribed as 
+being ahead, with something to teach or offer rather than something to learn. 
+We are also concerned that the movement may be more aligned with cor-
+porate values than social change. Writing in the New Yorker, journalist Evgeny 
+Morozov (2014) questions the faith such movements place in craftsmanship, 
+“back-to-the-land sloganeering,” (para. 4) and “making” to reorganize labor 
+and economic production without adequately attending to the need for insti-
+tutional and political change. Thus, while the maker movement is often char-
+acterized as anticonsumerist (Dougherty, 2012), Morozov (2014) laments its 
+close relationship with powerful business and military interests, such as the 
+Defense Advanced Research Projects Agency (DARPA), adding, “Makers, it 
+appears, are not necessarily trouble makers.” Indeed, antiestablishment brand-
+ing is often coupled with the impetus to purchase a new set of products (from 
+3D printers to making kits) and may serve to mask conventional corporate 
+agendas and forms of profit making. In her essay “Why I Am Not a Maker,” 
+Chachra (2015) expresses a similar perspective on the hierarchies reproduced 
+by the maker movement: “Making is not a rebel movement, scrappy individu-
+als going up against the system . . . it mostly re-inscribes familiar values, in 
+slightly different form: that artifacts are important, and people are not.”
+Chachra (2015) also juxtaposes the kinds of human activity that tend to be 
+valued by the movement with the everyday practices that have been the his-
+torical domain of women: mending, repairing, teaching, and caregiving. The 
+213
+Making Through the Lens of Culture and Power
+shirin vossoughi,  paula k. hooper, and meg escudé
+success of the movement means that these practices are cast as less valuable or 
+that they must be reframed as making in order to be legitimized: “Describing 
+oneself as a maker—regardless of what one actually or mostly does—is a way 
+of accruing to oneself the gendered, capitalist benefits of being a person who 
+makes products.” Her critique of the pressure to identify as a maker exempli-
+fies the views of those who are engaged in practices of engineering, design, 
+and education but who choose to dis-identify with the broader movement so 
+as not to be subsumed by its (patriarchal and capitalist) values. 
+These arguments highlight the normatively valued forms of learning and 
+creativity that have been both challenged and reproduced by the maker move-
+ment. Thus, while a number of researchers celebrate the range of identities, 
+practices, and learning environments made available through making, less 
+attention has been paid to the measures of valuable human and educational 
+activity reproduced by the movement in its current form and their conse-
+quences for equity-oriented pedagogy and research. While the branded ver-
+sion of making is not the only strand, it often functions as the starting point 
+that other definitions must answer to, particularly with regard to securing 
+funding for educational programs and related research projects. We explore 
+the alternative starting points that might shape how we define and study mak-
+ing through a wider set of cultural histories, values, and epistemologies. 
+Making and Educational Equity
+Largely in response to critiques of narrow representations of making, ques-
+tions of diversity and equity are increasingly at the forefront of making dis-
+course. As Halverson and Sheridan (2014) argue, making as an educative 
+practice has the potential to help transform what counts as learning and legit-
+imate “a broader range of identities, practices and environments,” a shift they 
+describe as “a bold step toward equity in education” (p. 503). 
+We agree that there is a need to transform what counts as learning and 
+that making can play an important role in this expansion. However, we ques-
+tion the idea that the maker movement—and specifically its forays into the 
+educational sphere—has, thus far, represented a bold step toward equity. As 
+Barton, Tan, and Greenberg (in press) note, makerspaces that have reached 
+beyond dominant populations “are the exception and not the norm,” with 
+“little research documenting what is working, how or why” (p. 30). 
+Further, current conceptualizations of making and equity have not ade-
+quately wrestled with the cultural, political, and economic tensions and con-
+tradictions reflected across the narratives introduced above, leading at times 
+to the reproduction of historical inequities. For example, Dougherty’s TED 
+Talk posits the need to reimagine schools to look more like the robotics com-
+petitions that inspire children like the young maker in Detroit. This image of 
+the white, male student whose interests and talents are marginalized in school 
+can be seen as the original imagined audience of the movement’s educational 
+214
+Harvard Educational Review
+designs—one that many have since sought to diversify (Buechley, 2013). Yet, 
+the fact that a progressive educational movement born in the twenty-first cen-
+tury begins from a narrow set of cultural experiences, and has since sought to 
+expand “diversity” and “inclusion” from that center point, exemplifies one of 
+the central tensions we seek to problematize. 
+To elaborate, educational programs animated by “access” and “inclusion”—
+what Gutiérrez and Jaramillo (2006) refer to as the “sameness as fairness” 
+approach—tend to design making activities and environments with seemingly 
+neutral or universal learning goals that are implicitly rooted in the experi-
+ences of dominant populations (such as frequent Maker Faire or museum par-
+ticipants). This process of design is typically followed by efforts to expand 
+participation, thereby limiting equity to outreach and diversified participation 
+rather than the critical examination and potential reorganization of the activi-
+ties and pedagogies themselves. 
+Further, while animated by equity concerns, questions such as “Who has 
+access to making?” fail to examine the assumptions that already inform the 
+ways the question is framed. This question implies that making writ large is 
+synonymous with the ways it is defined in the current maker movement and 
+that this form of making is a historically novel and inherently desirable activity 
+that should be practiced by all students and communities. Spurred by efforts 
+to delineate and market an emerging field, these assumptions align with an 
+interest in setting making apart from other forms of creative human activity. 
+Indeed, we have witnessed a number of conversations among researchers and 
+educators working to demarcate “what counts” as making or tinkering. While 
+these conversations represent efforts to develop a more precise definition of 
+making, the problem emerges when we fail to consider definitions that are 
+rooted in distinct historical and cultural genealogies or to attend to whose 
+voices are absent in the room. This inattention makes it difficult to recog-
+nize the cultural and socioeconomic assumptions already embedded in seem-
+ingly neutral making activities (such as 3D-printed catapults or night-launch 
+rockets). We also worry that this approach overlooks the tensions of assimila-
+tion and cultural self-denial consistently navigated by working-class youth and 
+youth of color and positions those who identify with the maker movement as 
+privileged cultural and intellectual gatekeepers.
+In grappling with definitions of making, the research literature often ref-
+erences Buechley’s (2013) analysis of the narrow representations within Make 
+magazine across the first nine years and 39 issues of its publication (2005–
+2014): 85 percent of the magazine covers featured white boys and men, with a 
+focus on robotics, electronics, and vehicles. While the response to this water-
+shed critique has led to a greater focus on representation (e.g., expanding the 
+diversity of makers featured on the magazine cover), less attention has been 
+given to the call for interrogating what is recognized as making. This tension is 
+akin to earlier trends in multicultural education, where nondominant cultural 
+practices were incorporated in tokenized ways (through food and holidays or 
+215
+Making Through the Lens of Culture and Power
+shirin vossoughi,  paula k. hooper, and meg escudé
+the incorporation of nonwhite characters in children’s books) as opposed to 
+the reorganization of learning based on deeper understandings of students’ 
+repertoires of practice, such as community-based forms of storytelling or sci-
+entific inquiry (Gutiérrez & Rogoff, 2003; Medin & Bang, 2014). Thus, we 
+argue that close attention to who students are—and what they experience as 
+cultural, historical, and political actors—alters and shapes the pedagogical 
+design and practice of making in consequential ways. 
+Alternative Visions: Toward the Critical Theory, Practice,  
+and Research of Making
+Building on these critiques, how might we reconceptualize the educational 
+practice of making in ways that place equity at the center? We argue that an 
+equity-oriented approach to making treats the following principles as starting 
+points for research and design: critical analyses of educational injustice, his-
+toricized approaches to making as cross-cultural activity, explicit attention to 
+pedagogical philosophies and practices, and ongoing inquiry into the socio-
+political values and purposes of making. We ground this framework in our 
+own research and teaching in the Tinkering Afterschool Program3 (Vossoughi, 
+Escudé, Kong & Hooper, 2013) as well as in the emerging interventions and 
+debates among critical voices within the maker movement. We highlight exam-
+ples that illustrate the educational possibilities and forms of liberatory practice 
+that can emerge when key learning goals and values are explicitly conceptual-
+ized through the lens of culture and power.
+Critical Analyses of Educational Injustice 
+We work from the premise that equity-oriented design and research must 
+begin with a clear analysis of educational injustices and how they shape the 
+lived experiences and pedagogical needs of young people and their commu-
+nities.4 While discourses of equity in making are often characterized by terms 
+like “diversity,” “access,” “inclusion,” and “opportunity,” there is seldom sus-
+tained attention to racialization, discipline, and the school-to-prison pipe-
+line (Elias, 2013; Nasir, 2011); to deficit thinking as tied to tracking (Oakes, 
+1999) and narrow forms of remediation (Cole & Griffin, 1983); to curricular 
+and pedagogical models that marginalize the cultural practices of students 
+(González, Moll, & Amanti, 2005); or to the disproportionate impact of high-
+stakes testing on working-class students and students of color (Rose, 2011). 
+In our view, efforts to broaden participation without explicit analysis of such 
+injustices advance the implicit arguments that access to normative making and 
+STEM learning opportunities is sufficient for bringing about equity, and that 
+equity looks like individual success within the current system (e.g., increasing 
+the number of underrepresented students in the STEM pipeline), rather than 
+the collective reimagining and transformation of the system itself. 
+216
+Harvard Educational Review
+How and why are explicit analyses of educational injustice necessary for 
+developing more equitable forms of making? First, like Morozov, we are con-
+cerned that a focus on new learning tools and activities without attention 
+to corresponding structural changes will reproduce existing inequities. For 
+example, our work with educators has led us to recognize the crucial role of 
+guided reflection as a core element of robust professional development. Writ-
+ing and talking about the pedagogical details of moment-to-moment inter-
+actions with students often surfaces deficit-oriented assumptions and creates 
+the space to codevelop more equitable practices. Yet, this time for reflection 
+is hard to come by and is systematically underfunded, particularly in schools 
+and communities hardest hit by budget cuts and other forms of economic dis-
+investment. A similar tension emerges when inquiry-based forms of learning 
+come up against accountability measures that limit the room for alternative 
+pedagogies in schools and increasingly constrain curriculum in afterschool 
+settings (Nocon & Cole, 2006). From this vantage point, high-quality mak-
+ing activities and tools alone will not unsettle existing inequities if we do not 
+simultaneously challenge disinvestments in public education and call for the 
+structural changes that would meaningfully support all teachers and students. 
+Failing to name these inequities can lead to educational designs that can only 
+be incorporated by well-resourced schools and programs. 
+Second, advancing making as an alternative to standardized, test-centric 
+education without also confronting discourses of failure, persistence, and grit 
+risks replicating deficit views of students. For example, researchers and edu-
+cators often highlight the ways making can support the process of learning by 
+encouraging intellectual risk taking and iteration. This includes reframing 
+frustration and failure as fundamental to the recursive feedback that charac-
+terizes making, rather than as problems to be avoided in the search for one 
+right answer (Blikstein, 2013; Petrich, Wilkinson, & Bevan, 2013). There is a 
+shared value here around the ways students iterate by studying the actions and 
+movements of their creations (Martin, 2015) and imagining how things could 
+be beyond how they are (Ackermann, 2010). In the Tinkering Afterschool 
+Program, educators often presented imperfect examples (a faulty scribbling 
+machine or a sewn science notebook that artfully incorporated a “mistake”) 
+as a way to model the power of process, invite students to publicly discuss how 
+they might approach a problem, and emphasize the importance of ideas over 
+final products. Such principles hold great potential for widening narrow defi-
+nitions of success or intelligence (Vossoughi et al., 2013). However, Martinez 
+and Stager (2013) caution against confusing “iteration with failure when in 
+fact any iterative design cycle is about continuous improvement, keeping what 
+works, and improving what doesn’t.” They argue, “This is learning, not fail-
+ure” (p. 70). Because, as Martin (2015) notes, some students and schools have 
+been systematically labeled as “failures,” the term (legitimately) carries nega-
+tive connotations and may not be so easily reframed (Ryoo, Bulalacao, Kekelis, 
+McLeod, & Henriquez, 2015). 
+217
+Making Through the Lens of Culture and Power
+shirin vossoughi,  paula k. hooper, and meg escudé
+We also question the ways terms like “persistence” or “grit” are used to 
+frame desired responses to frustration within making experiences. These dis-
+courses tend to individualize historical inequities and omit other crucial fac-
+tors, such as the quality and meaning of the task itself, the presence or absence 
+of intellectual safety, or the kinds of cultural differences and microaggressions 
+students may be navigating within a making environment (Kohn, 2014; Norris, 
+2014). As educators, if our response to frustration is always “persist,” we forfeit 
+the opportunity to interpret these moments as an indication of what needs 
+pedagogical attention or curricular change. The broader context of educa-
+tional injustice, therefore, has consequences for how practices such as itera-
+tion are conceptualized and mediated. 
+Finally, explicit attention to educational injustices is essential to developing 
+a pedagogical sensitivity to the ways they can reemerge within making environ-
+ments. For example, we have observed that making activities are sometimes 
+framed as rewards for good behavior, thereby reconstituting the practices asso-
+ciated with ability grouping and tracking. In the Tinkering Afterschool Pro-
+gram, we experienced a turning point when our research surfaced the ways 
+a student who was perceived as “off task” was receiving narrow forms of assis-
+tance and few opportunities for authorship as compared to other students. 
+Examining this dynamic allowed us to develop more responsive and respect-
+ful approaches to working with this student and others. Thus, despite equity- 
+oriented goals, deficit ideologies are often tenacious and fluid, demanding 
+ongoing reflection and action. 
+Questions that can support educators and researchers in identifying such 
+inequities might include: Who has access to more intellectually complex activ-
+ity within this space? Are there gendered or racialized patterns of tool use, 
+participation, or assistance? Are multiple pathways and ways of knowing sup-
+ported or marginalized? What kinds of mentorship are available to help youth 
+navigate everyday encounters with racism and other forms of marginaliza-
+tion? And if and how do making environments attend to the histories of prac-
+tice young people are involved in? These questions exemplify the alternative 
+approaches to design and pedagogy that grow from the explicit analysis of 
+educational injustice. 
+A Historicized Approach to Making as Cross-Cultural Activity 
+Medin and Bang (2014) problematize the ways “science education recognizes 
+and values practices that white, middle-class scholars bring to the classroom, 
+while ignoring or even overtly discouraging the science-related practices” of 
+other cultural groups (p. 240). They argue that equity in science education 
+will not be achieved as long as science itself remains “pure and beyond exami-
+nation” (p. 240). Here we consider the implications of this argument for the 
+maker movement and argue that equity will not be achieved as long as our 
+definitions of making remain “pure and beyond examination.” 
+In this spirit, we ask, what does a historicized view of making as cross-cultural 
+218
+Harvard Educational Review
+activity open up with regard to design, pedagogy, and research? First, rather 
+than beginning with the question of who has access to making, we might start 
+with the assumption that practices resonant with making are already present 
+in diverse forms in all communities. As Gutiérrez argues, “Inventing, mak-
+ing, tinkering, designing, are indigenous practices, that is, practices that origi-
+nate and occur naturally in particular ecologies” (Schwartz & Gutiérrez, 2015, 
+p. 577). Rather than working to “bring” making to nondominant communi-
+ties, this assumption of human ingenuity (McDermott & Raley, 2011) positions 
+researchers and educators as learners, inquiring into the ways of asking, know-
+ing, and relating involved in existing forms of making. Drawing on our earlier 
+discussion of Danticat and Eglash, such inquiries might also involve noticing 
+how extant making practices are rooted in community-based forms of surviv-
+ing and thriving. 
+Second, this approach can help reframe how we understand who is and who 
+is not participating in spaces such as Maker Faires. While discourses of equity 
+in the maker movement often focus on diversifying participation, less atten-
+tion has been given to the reasons people choose not to participate in particu-
+lar spaces and how those reasons may be rooted in critique. If we suspend the 
+assumption that participating in sanctioned makerspaces is inherently desir-
+able, we may open ourselves up to recognizing and learning from the com-
+munities of creative practice people already participate in and to troubling 
+simplified discourses of interest and engagement. These discourses often posi-
+tion particular populations as interest deficient rather than asking after the 
+environments themselves and seeking to understand people’s subjective expe-
+riences and critiques (Nasir & Vakil, in press). 
+This view does not preclude considering how young people’s interest-driven 
+activities connect to robust educational or professional pathways (Ito et al., 
+2013). Indeed, a number of scholars illustrate both the intellectual depth of 
+everyday linguistic and cultural practices and how these can be meaningfully 
+connected to academic concepts and identities (Gutiérrez, 2008; Lee, 2001). 
+This includes supporting students in appropriating the tools of power toward 
+new ends. Within making environments, this perspective can inform the mate-
+rials, tools, and activities selected, as well as the ways teachers talk about making 
+activities and identities. For example, creating environments that model and 
+invite students to share stories about familiar practices (such as the intergen-
+erational use of sewing machines, kite making, and home electronics repair) 
+can support new ways of noticing the scientific and artistic dimensions of their 
+everyday activity (Vossoughi et al., 2013), making connections to as well as 
+expanding disciplinary knowledge, and recognizing the intellectual complex-
+ity of historically gendered practices such as sewing (Kafai, Searle, Martinez, & 
+Brayboy, 2014). As Buechley, Eisenberg, Catchen, and Crockett (2008) argue: 
+In addition to asking “how can we get girls and women to participate in tradi-
+tional computer science and support them once they are there?”, we should ask: 
+219
+Making Through the Lens of Culture and Power
+shirin vossoughi,  paula k. hooper, and meg escudé
+“how can we integrate computer science with activities and communities that 
+girls and women are already engaged in?” (p. 431) 
+Such questions shift the discourse away from deficit orientations (Why are 
+girls less interested in computer science?) and toward epistemological frame-
+works that begin with what is significant to students. 
+Thus, approaching design in ways that build on and expand everyday prac-
+tices is quite distinct from designing activities based on dominant cultural 
+norms and then working to broaden participation. This shift becomes particu-
+larly essential as the maker movement expands into schools and develops its 
+own forms of assessment. The field is poised to define what counts as learning 
+in the context of making. Situating these efforts in a deep understanding of 
+learning as cultural activity will be crucial to challenging rather than repro-
+ducing deficit ideologies. 
+Finally, efforts to draw borders around making set up making itself as the 
+goal of educational practice, rather than treating making as one among many 
+tools that can productively intersect with other rich forms of learning. Nar-
+row definitions of making also demarcate which educational environments are 
+considered makerspaces (and can therefore access related sources of funding) 
+as well as who counts as a maker and who does not. From our perspective, this 
+trend is not inevitable and could be reorganized in productive ways by inten-
+tionally treating the practice of making as open to local adaptation, critique, 
+and appropriation. This shift also requires a clear understanding of the role of 
+the teacher in making environments. 
+Explicit Attention to Pedagogy
+A growing number of studies describe the pedagogical skills that support 
+making, including knowledge of materials, tools, and processes; strategies 
+for supporting meaning making and the complexification of ideas; and an 
+understanding of participants’ prior knowledge and interests (Brahms, 2014; 
+Gutwill, Hido, & Sindorf, 2015). Petrich et al. (2013) note the importance 
+of providing opportunities for teachers to experience activities and tools as 
+learners prior to and alongside engaging young people in making activities. 
+Critiquing approaches to technology that treat “computers and software as 
+black boxes where the inner workings are hidden to users” (Kafai, Fields, & 
+Searle, 2014), the research literature also highlights the transparency of mate-
+rials and activities as a core pedagogical value (Peppler, 2013). 
+While there is increasing attention to the role of facilitation and transpar-
+ency across studies of making, we have also noticed significant limitations in 
+the analysis of pedagogy as it relates to discussions of equity. First, empirical 
+studies of learning in the context of making tend to foreground individual 
+learning processes rather than joint activity or explicit analyses of teaching 
+(Vossoughi & Bevan, 2014). This tendency suggests that pedagogical struc-
+tures were either absent or minimal or resulted from a methodological and 
+220
+Harvard Educational Review
+conceptual decision to minimize explicit attention to pedagogy, even if it was a 
+significant part of the learning process. When educators are mentioned, they 
+are consistently framed as “facilitators,” “guides,” or “coaches,” a discourse 
+that tends to treat the word “teacher” and the practices associated with being 
+a teacher as inherently didactic or problematic. 
+We worry that an overreliance on child-centered pedagogies that empha-
+size the avoidance of direct assistance overlooks the powerful role intentional 
+teaching can play in challenging deficit ideologies and cultivating substantive 
+experiences of intellectual dignity (Espinoza & Vossoughi, 2014) as well as the 
+need to make pedagogical structures visible within research, design, and pro-
+fessional development. To illustrate this point, we have crafted two different 
+accounts of the same interaction captured during our video-based research on 
+afterschool tinkering. The first vignette describes the experience of one stu-
+dent as he explored circuitry. 
+Vignette 1. Circuit Boards: Individual Learning Processes 
+Arthur (seven years old) was exploring circuitry using a series of blocks with 
+electrical components.5 He became excited when he realized that some of his 
+lights were lit even though they weren’t directly connected to the battery, and he 
+called others over to point out that some lights worked “without even batteries.” 
+He then became fascinated with a battery tester that was available on the table 
+and took a break from his circuit building in order to test all his batteries. After 
+this detour, he periodically switched off his circuits and spoke about the need to 
+save their energy. 
+Arthur then decided to move around the room to check out the work of oth-
+ers. He spent some time as a guest at Aeden’s (nine years old) circuit. Aeden 
+pointed out interesting aspects of his own circuit boards (such as a small fan with 
+rapidly spinning foam blades), and Arthur joined in the investigation. Aeden’s 
+own engagement with circuits seemed to ebb and flow on this day.
+Arthur then added more boards to his original parallel circuit. When he added 
+a particular motor, he noticed that it affected the intensity of light from some 
+of the lightbulbs. This threw Arthur into his final investigation of the effects his 
+circuit boards were having on one another. 
+This episode reflects forms of observing and reporting on learning that 
+we have noticed in various introductions to making, including at conferences 
+where making is featured, such as FabLearn, Association of Science and Tech-
+nology Centers (ASTC), and Digital Media and Learning. Here participants’ 
+individual investigations and learning outcomes are foregrounded alongside 
+attention to peer interaction and collaboration. Such accounts highlight the 
+forms of inquiry and thinking evident within the process of making, thus 
+creating new resources for activity design and formative assessment. These 
+include the ways authentic questions and investigations emerge through direct 
+engagement with materials and scientific phenomena and the ways knowledge 
+about the workings of electricity become consequential to achieving purposes 
+221
+Making Through the Lens of Culture and Power
+shirin vossoughi,  paula k. hooper, and meg escudé
+that are authored by participants themselves (Blikstein, 2013; Peppler, 2013). 
+Compare this version of the story with the following vignette, which highlights 
+Arthur’s interactions with a teacher in the setting: 
+Vignette 2. Joint Activity 
+Arthur worked with Walter (a teacher) to explore circuitry. Arthur became 
+excited when he realized that some of his lights were lit even though they weren’t 
+directly connected to the battery. He then called others over to point out that 
+some lights worked “without even batteries.” Using Arthur’s own phrasing, Wal-
+ter affirmed and then reframed this statement, helping to clarify what was hap-
+pening: “without even batteries going directly to those light bulbs.” 
+Arthur then asked Walter about a battery tester that was available on the table. 
+After Walter explained the uses of the tool, Arthur became fascinated and took 
+a break from his circuit building in order to test all his batteries. Following this 
+detour, he periodically switched off his circuits and spoke about the need to save 
+their energy. 
+Arthur then decided to move around the room to check out the work of oth-
+ers, a practice that is encouraged in the setting. He spent some time as a guest at 
+Aeden’s circuit. Aeden pointed out interesting aspects of his own investigations, 
+and Arthur joined in the experiment. Aeden’s own engagement with circuits 
+seemed to ebb and flow on this day, which the staff later discussed as poten-
+tially stemming from his need for a greater challenge. During the end-of-the-day 
+debrief, one staff member committed to working more closely with Aeden the 
+following week.
+Arthur then added more boards to his original parallel circuit. Walter com-
+mented that Arthur had built an “elegant circuit” and offered suggestions for 
+ways to test and try out solutions. Some of Arthur’s solutions surprised Walter, 
+who said that he was also learning from Arthur’s ideas. When a particular motor 
+was added, Walter pointed out that it was affecting the intensity of light from 
+some of the light bulbs. This threw Arthur into his final investigation of the 
+effects his circuit boards were having on one another other.6
+In contrast to Vignette 1, the unit of analysis in Vignette 2 is one of joint 
+activity. While similarly highlighting the ideas that emerged within Arthur’s 
+investigations, this lens treats thinking as a social activity, one that is intention-
+ally mediated through the teacher’s interventions. Here, explicit attention to 
+pedagogy foregrounds the generative role of elders and mentors in young 
+people’s development, makes the art and skill of teaching transparent and 
+available for other educators, and treats the development of social relation-
+ships as a primary rather than secondary aspect of making activity (DiGiacomo 
+& Gutiérrez, 2015). 
+This lens allows us to consider the making of social relations as interwoven 
+with the making of artifacts. However, we see this distinction as one that must 
+be carefully developed and documented rather than taken for granted as an 
+innate feature of making environments. Actions such as Arthur’s decision to 
+walk around and check out other students’ circuits or the brotherly stance 
+222
+Harvard Educational Review
+Aeden took with regard to Arthur’s curiosity about his circuit have a history. 
+We might study this history by asking, If and how is collaboration encour-
+aged and modeled in this setting? How did students interact with one anoth-
+er’s projects early in their participation as compared to later points in their 
+trajectory? Such detailed accounts of the process through which alternative 
+social relations come to be would help illustrate how knowledge and assistance 
+become readily accessible to all participants as well as the ways competitive 
+interactions (those more likely to reproduce raced/classed/gendered hier-
+archies of intelligence) can be altered and reimagined. As Nasir et al. (2006) 
+argue, a deep sense of social belonging is a key marker of equitable learning 
+environments. 
+Also, we worry that discussions of transparency within making tend to focus 
+on the transparency of activity design (such as the use of materials that make 
+scientific phenomena or engineering solutions visible and investigable) rather 
+than on the complementary forms of transparency afforded through peda-
+gogical talk and apprenticeship. Arthur’s fascination with the battery tester, 
+for example, emerged from Walter’s explanation of how it works—a move that 
+made the teacher’s knowledge of the tool available for Arthur to draw on in 
+his investigation. Furthermore, Walter’s decision to encourage what could be 
+seen as off-task behavior was intentional and tied to his knowledge of how this 
+added expertise could deepen Arthur’s learning, as well as to his rejection of 
+pedagogies that emphasize behavior control. 
+Yet, the tendency to focus on the transparency of tools rather than ped-
+agogy suggests that high-quality making activities will themselves serve as the 
+teacher within a process of self-directed learning. In our view, self-directed 
+learning can easily slip into a meritocratic, pull-yourself-up-by-your-bootstraps 
+approach to education. In this case, Arthur’s journey through the activity can 
+largely be seen as successful. Thus, the descriptions in Vignette 1 are framed 
+in ways that attribute this success to Arthur. However, had Arthur had a diffi-
+cult time with the activity (as was sometimes the case), the focus on his individ-
+ual learning process could easily turn into a story of Arthur’s struggles rather 
+than an examination of the pedagogical supports and relationships available 
+in the environment. The contrasting depictions of Aeden’s experience across 
+the two vignettes reflect this tension. In Vignette 2, moments of disengage-
+ment are attributed to the lack of support Aeden received from educators 
+that day. The staff interprets Aeden’s response as a reflection of his need for 
+a greater challenge, and they commit to working with him more intentionally. 
+Thus, empirical analyses that foreground teaching can make visible the spe-
+cific forms of reflection and pedagogical responsibility necessary for equitable 
+teaching. The analytic focus in the making literature on activity design over 
+and above pedagogical design also resonates with Chachra’s (2015) critique 
+“that artifacts are important, and people are not.”
+Finally, we are concerned that the maker movement is adopting a narrow 
+version of constructionism as its theoretical seed, rather than drawing from 
+223
+Making Through the Lens of Culture and Power
+shirin vossoughi,  paula k. hooper, and meg escudé
+critical developments in constructionist theory that include social and cultural 
+perspectives. Extending Piaget’s constructivist focus on individual sense mak-
+ing and experience, constructionism posits that learners construct understand-
+ings of the ideas that are embedded in the creation of personally meaningful 
+artifacts (Papert, 1993). For example, the “turtle” in Logo turtle graphics was 
+designed to help learners explore geometry by providing ways to think about 
+the formation of shapes as processes that they could relate to physically and 
+control through creating procedures (Papert, 1980). Early visions for the pos-
+sibilities that programming (now “coding”) could offer were as much about 
+supporting epistemological pluralism as they were about providing new ways 
+to explore disciplinary ideas (diSessa, 2000; Turkle & Papert, 1992). 
+Constructionist approaches to learning are foundational to the maker 
+movement, as reflected in projects that begin with learners’ interests and the 
+historical resonance between the technological tools that are popular in con-
+temporary makerspaces (i.e., laser cutters, Arduinos) and the original ideas 
+that shaped programmable media for children. It is therefore possible to envi-
+sion work with technology in makerspaces as similarly opening up new ways 
+of thinking about disciplinary ideas and fostering epistemological pluralism. 
+For example, investigations of mathematical ideas could be conducted in 
+physical, digital, and fabricated forms, each open-ended enough for person-
+alized expression yet structured enough for scaffolding toward specific ideas 
+(Hooper & Freed, 2013).
+In our view, connecting these dots requires intentional forms of pedagogy. 
+Yet, historically, constructionist perspectives have not treated explicit atten-
+tion to pedagogy as central to learners’ engagement with new ideas. The role 
+of the teacher within constructionist pedagogical designs is generally to facili-
+tate engagement with new tools using a process of making projects that reflect 
+learners’ interests. Constructionist approaches are often contrasted with 
+direct forms of teaching, such as Initiation-Response-Evaluation (IRE) models, 
+whereby the teacher asks questions, students give responses, and the teacher 
+evaluates those responses (Cazden, 2001). 
+However, there are existing threads within constructionist research suggest-
+ing that the theory and its application could benefit from a more nuanced 
+perspective on the role of direct assistance (Delpit, 1986) and the social organi-
+zation of making environments. Hooper (2008) examined the role of cultural 
+context and teacher-student interactions in the emergence of computational 
+ideas as expressive tools. Critiques of constructionism have also called for 
+reexamining the theory’s focus on individual learning. Ideas such as cultural 
+constructionism (Hooper, 1998), social constructionism (Shaw, 1995), and 
+socioconstructivism (Ackermann, 2010) represent efforts to merge construc-
+tionist theory with sociocultural perspectives (Nasir et al., 2006; Rogoff, 2003). 
+Treating sociocultural experience and interaction as constitutive of individual 
+and collective sense making opens up more nuanced views of pedagogy, includ-
+ing moments when explicit forms of teaching are appropriate and generative. 
+224
+Harvard Educational Review
+A sociocultural critique of constructionist practice also helps caution 
+against the fetishization of tools such as 3D printers and Arduinos as all that is 
+needed for robust and equitable forms of making. As with the pitfalls of tech-
+nology use in schools, we worry about designs for makerspaces that may be full 
+of tools but void of the rich pedagogical philosophies and practices needed 
+to support all students (Philip & Garcia, 2013). There are excellent models 
+of programs that have been engaging in making activities with nondominant 
+populations, such as the California-based Community Science Workshops and 
+Techbridge or Making 4 Change in Michigan and North Carolina. We argue 
+that these settings succeed because they prioritize sociocultural contexts and 
+nurture the development of social relationships and collective sense making 
+as interwoven with the critical appropriation of disciplinary tools and ideas 
+(Barton et al., in press).
+The Sociopolitical Values of Making 
+Finally, the buzzwords associated with making in the US context—“innovation,” 
+“STEM workforce development,” and “global competitiveness”—have implica-
+tions for teaching and learning. Prominent voices within the US maker move-
+ment also tend to describe the artifacts young people make as “products” and 
+treat innovation as synonymous with democracy and positive social change.7 
+We challenge this assumption and highlight groups both inside and outside 
+the United States who are developing alternative visions and frameworks. 
+First, scientific experimentation and invention are not politically neutral or 
+benign activities (Medin & Bang, 2014). There is a long history of research 
+within science and technology studies that examines the role of Western sci-
+ence in colonialism, military interventions, and the oppression of communi-
+ties of color (Harding, 1993; Nelson, Tu, & Hines, 2001). Yet, the politics of 
+technology and innovation—and what they mean for the pedagogical design 
+of makerspaces—is largely unexplored within the literature. For example, the 
+emphasis on robotics and drone technology is often criticized on the grounds 
+that it puts forth a narrow, gendered definition of making with little mention 
+of the militaristic and ethical implications of such technologies. In examining 
+the relationship between the US military and STEM education, Vossoughi & 
+Vakil (in progress) express concern with corporate and military investments 
+in making; question narratives that tout innovation yet deemphasize critical 
+thinking, social analysis, and the arts; and highlight the voices of makers and 
+educators that expressed opposition to partnerships among MakerED, hacker-
+spaces, and DARPA. 
+In light of this larger context, we argue that there is a need for research on 
+making that treats learning as a sociopolitical process (Barton et al., in press; 
+Booker, Vossoughi, & Hooper, 2014; Santo, 2013). Existing models for this 
+approach include a recent graduate course examining the ethics and social 
+impact of design at the Massachusetts Institute of Technology Media Lab, 
+Unpacking Impact: Reflecting as We Make. Oakland’s Youth Radio provides 
+225
+Making Through the Lens of Culture and Power
+shirin vossoughi,  paula k. hooper, and meg escudé
+another example; in their research on youth media production, Chávez and 
+Soep (2005) argue that “the process of transforming lived and imagined expe-
+riences into original expressive works for significant audiences can provide 
+a resource for young people to rewrite the stories that are told about them, 
+against them or supposedly on their behalf” (p. 410). Rather than beginning 
+from a generic principle of youth authorship, a common theme within lit-
+erature on making, or treating conventional forms of media production as 
+politically neutral, Chávez and Soep consider the pedagogical approaches that 
+are most responsive to their students’ sociopolitical realities. The meaning of 
+authorship itself therefore shifts to involve explicit attention to the rewriting 
+of dominant narratives about youth of color and their communities. 
+Second, the conflation of innovation with democracy aligns with the grow-
+ing economization of education and of public life more broadly. As reflected 
+in the 2015 White House statement on making, educational initiatives are 
+increasingly framed as economic initiatives, and US makerspaces often empha-
+size the access to tools and technologies needed to pursue individual commer-
+cial endeavors.8 Brown (2015) considers what this economization of everyday 
+life means for social and relational domains, such as education, writing, 
+“Neoliberal rationality disseminates the model of the market to all domains and 
+activities—even where money is not an issue—and configures human beings 
+exhaustively as market actors” (p. 31). She continues, “every aspect of human 
+existence is produced as an entrepreneurial one” (p. 65). 
+In seeking out alternatives to this “neoliberal rationality,” we analyzed the 
+mission statements of a number of makerspaces, hack labs, and collective arts 
+spaces in Latin America.9 In Mexico, CASITA (Autonomous Center for the 
+Intercultural Creation of Appropriated Technologies) runs workshops where 
+participants repurpose bicycles into pedal-powered machines like blenders 
+and other practical tools. Its mission statement reads: “We believe that it is 
+important to learn, reproduce and innovate the techniques that are ecologi-
+cally prudent, but also socially just, culturally appropriate-able, economically 
+accessible and, whenever possible, technically reproducible.”10 Such statements 
+highlight the activities that take place, and their benefits to the people who 
+participate, over and above descriptions of the physical space and its material 
+assets. Un/Loquer, a hackerspace in Medellín, Colombia, describes its mission 
+as contributing to the world by “creatively redefining technology”: “We take 
+apart and occasionally abuse technologies in search of understanding how 
+they work in order to propose and construct devices for new uses. Included 
+in un/loquer are empirical scientists, neighborhood inventors, cacharreros 
+empedernidos [veteran tinkerers], engalladores de carretas [embellishers of 
+horse carriages].”11 Such descriptions draw on the historical practice of repur-
+posing available technologies for uses outside intended systems of consumer-
+ism (Eglash, 2004), signaling a shift away from corporate interests and toward 
+community needs. Although we recognize that there are many groups in the 
+United States engaged in parallel efforts, we also believe the mainstream dis-
+226
+Harvard Educational Review
+course of the maker movement has much to learn from the forms of imagina-
+tion and political possibility reflected in these statements. 
+Drawing from these alternative social visions, as well as from Brown’s cri-
+tique, we ask: What kind of political and economic subject is the learner within 
+a making environment? To what extent are students in the United States being 
+positioned as future workers or entrepreneurs? What alternate identities and 
+subjectivities are eclipsed in the process? In our view, the dominant framing 
+of making as a STEM-oriented movement—and the vast investment in STEM 
+education as opposed to arts, social studies, or literacy education—is, in part, 
+a consequence of the organization of all spheres of social life around eco-
+nomic returns on investment. While we are excited by the rich intersections 
+between scientific and artistic practice, the growing emphasis on STEAM (sci-
+ence, technology, engineering, arts, and math) also illustrates the ways arts 
+education may be supported in so far as it contributes to scientific and eco-
+nomic initiatives. 
+Thus, we worry that questions such as “Where is the learning in making?” 
+too often become synonymous with “Where is the STEM in making?” This ten-
+dency works against a wider range of learning goals and risks overlooking the 
+various ways young people experience and value making as a multidisciplinary 
+activity (Peppler, 2013; Sheridan et al., 2014). In our research, we have sought 
+to move beyond a narrow focus on STEM by foregrounding the multidisci-
+plinary development of ideas as interwoven with the development of social 
+relations and new forms of agency. This focus allows us to study the genesis 
+of diverse forms of learning and how they matter to participants, rather than 
+starting from the premise that that learning is bound to STEM or to predeter-
+mined definitions of making.
+In a similar vein, we notice that groups like Medellín’s Por Estos Dias (these 
+days) define themselves as collectives of people who engage in a range of activ-
+ities related to making. This multimodal approach, as expressed by Por Estos 
+Dias, serves as an opening to the genesis of larger purposes and possibilities 
+and resonates with Chachra’s (2015) critique of the pressure to identify as a 
+maker:
+Hay días que somos un proyecto de acción social 
+Algunos días somos un diálogo entre disciplinas 
+Día tras día somos un experimento que se reimagina
+No todos los días somos un proyecto de arte 
+PorEstosDias hacemos cosas
+(There are days when we are a cultural action project
+Some days we are a dialogue between disciplines . . . 
+Day after day we are an experiment that reinvents itself . . .
+Not every day we are an art project,
+These days we make things.)12
+227
+Making Through the Lens of Culture and Power
+shirin vossoughi,  paula k. hooper, and meg escudé
+Drawing inspiration from such statements, we see an expansive potential 
+in historical forms of creative activity that are rooted in community and in 
+contemporary making practices that are situated within the greater social and 
+intellectual purposes of collective transformation.
+Conclusion
+In this article we examine the tensions we see in the maker movement as a way 
+to support collective self-reflection and new forms of action. Currently, mak-
+ing is being incorporated at scale in rapid ways without adequately consider-
+ing the structural changes and material and pedagogical resources required to 
+support learning for all students. We therefore see a crucial need to create the 
+time, space, and analytic tools necessary to embrace the complexity of placing 
+culture, power, and equity at the center of the design and research of making. 
+In this spirit, we propose a framework that highlights four alternative starting 
+points for equity-oriented design: critical analyses of educational injustice, his-
+toricized approaches to making as cross-cultural activity, explicit attention to 
+pedagogy, and inquiry into the sociopolitical values and purposes of making. 
+Explicit engagement with these complexities can lead to a critical examina-
+tion and iterative reconceptualization of key learning principles and pedago-
+gies. We believe pedagogical designs that are animated by these principles will 
+be more responsive to the histories, needs, and experiences of working-class 
+students and students of color and that related forms of research will help 
+theorize the kinds of agentive teaching and learning that can emerge within 
+making experiences.
+Notes
+1. See, for example, http://www.huffingtonpost.com/christine-henseler/the-maker-move-
+ment-and-th_b_6349514.html, which contrasts with the more typical representation of 
+makerspaces found at http://mobile.nytimes.com/2016/02/07/education/edlife/
+forward-tinkering-colleges-make-room-for-maker-spaces.html?_r=2&referer=http:// 
+m.facebook.com.
+2. “Introduction: Mind and Work,” from The Mind at Work: Valuing The Intelligence of the 
+American Worker by Mike Rose, copyright © 2004 by Mike Rose. Used with permission of 
+Viking Books, an imprint of Penguin Publishing Group, a division of Penguin Random 
+House LLC.
+3. The Tinkering Afterschool Program is a partnership between a science museum and an 
+afterschool center that serves children and youth from immigrant and diasporic back-
+grounds (Mexican, Central American, Chinese, Vietnamese, Filipino/a and African 
+American) in a working-class urban community. Adults and teen educators work with 
+elementary-aged children on a weekly basis to design and co-create artifacts that blend 
+scientific inquiry and artistic expression, such as scribbling machines, stop-motion ani-
+mation films, wooden pinball machines, and musical instruments. 
+4. We lead with the term injustice because we believe it highlights historical and contem-
+porary forms of oppression—and their intentionality—in ways that inequity or disparity 
+228
+Harvard Educational Review
+can sometimes obscure. A justice-oriented frame also opens the space to imagine and 
+articulate self-determined solutions that diverge from white, middle-class epistemolo-
+gies and practices. 
+5. Student names are pseudonyms. In this case, the teacher, Walter (in Vignette 2), chose 
+to use his real name. 
+6. This vignette is adapted from a description of the same interaction featured in Vos-
+soughi and Bevan (2014).
+7. As Techshop CEO Mark Hatch (2014) states, “The real power of this revolution is its 
+democratizing effects. Now, almost anyone can innovate. Now almost anyone can make. 
+Now, with the tools available at a makerspace, anyone can change the world” (p. 10).
+8. See https://www.whitehouse.gov/nation-of-makers.
+9. We chose to focus on Latin America in order to intentionally step outside the narra-
+tive of American exceptionalism, and due to Escudé’s personal connection with Latin 
+America as an Argentine who lived and worked there as an artist and teacher for several 
+years. The particular focus on Colombian makerspaces is due to a recent professional 
+collaboration between Escudé and individuals associated with both the science museum 
+Explora and the makerspace Platohedro, through which she became familiar with the very 
+active making/hacking community in Colombia.
+10. See http://www.cacita.org.mx/.
+11. See http://unloquer.org/inicio/. Carretas are homemade wooden carts, often horse-
+drawn. They are commonly used in Latin America by independent street vendors or 
+collectors of discarded recyclables for resale or reuse.
+12.  See https://www.facebook.com/porestos.dias/about?section=bio&pnref=about. This 
+mission statement was translated by Escudé. 
+References
+Ackermann, E. K. (2010, August). Constructivism(s): Shared roots, crossed paths, multiple 
+legacies. Proceedings of the Constructionism 2010 Conference, Paris, France, 1–9.
+Arieff, A. (2015, April 3). Learning through tinkering. The New York Times. Retrieved 
+from http://www.nytimes.com/2015/04/04/opinion/learning-through-tinkering 
+.html?_r=0
+Bang, M., & Medin, D. (2010). Cultural processes in science education: Supporting the nav-
+igation of multiple epistemologies. Science Education, 94(6), 1008–1026.
+Bang, M., Warren, B., Rosebery, A. S., & Medin, D. (2012). Desettling expectations in sci-
+ence education. Human Development, 55(5–6), 302–318.
+Barton, A. C., Tan, C., & Greenberg, D. (in press). The makerspace movement: Sites of 
+possibilities for equitable opportunities to engage underrepresented youth in STEM. 
+Teachers College Record. 
+Blikstein, P. (2013). Digital fabrication and “making” in education: The democratization of 
+invention. In J. Walter-Herrmann & C. Büching (Eds.), Fablabs: Of machines, makers 
+and inventors (pp. 1–21). Bielefeld, Germany: Transcript.
+Booker, A., Vossoughi, S., & Hooper, P. (2014, June). Tensions and possibilities for political work 
+in the learning sciences. Paper presented to the International Conference of the Learn-
+ing Sciences, Boulder, CO. 
+Brahms, L. J. (2014). Making as a learning process: Identifying and supporting family learning in 
+informal settings. Unpublished doctoral dissertation, University of Pittsburgh. 
+Brown, W. (2015). Undoing the demos: Neoliberalism’s stealth revolution. Cambridge, MA: Mas-
+sachusetts Institute of Technology Press.
+Buechley, L. (2013, October). Thinking about making. Keynote speech presented at FabLearn 
+Conference, Stanford University, Stanford, CA. 
+229
+Making Through the Lens of Culture and Power
+shirin vossoughi,  paula k. hooper, and meg escudé
+Buechley, L., Eisenberg, M., Catchen, J., & Crockett, A. (2008, April). The LilyPad Arduino: 
+Using computational textiles to investigate engagement, aesthetics, and diversity in 
+computer science education. In M. Czerwinski & A. Lund (Chairs), Proceedings of the 
+SIGCHI conference on human factors in computing systems (pp. 423–432). New York: Asso-
+ciation for Computing Machinery.
+Calderon, D. (2014). Speaking back to manifest destinies: A land education–based approach 
+to critical curriculum inquiry. Environmental Education Research, 20(1), 24–36.
+Cazden, C. B. (2001). Classroom discourse: The language of teaching and learning. Portsmouth, 
+NH: Heinemann. 
+Chachra, D. (2015, January 23). Why I am not a maker. The Atlantic. Retrieved from http://
+www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/
+Cole, M., & Griffin, P. (1983). A socio-historical approach to re-mediation. Quarterly Newslet-
+ter of the Laboratory of Comparative Human Cognition, 5(4), 69–74. 
+Danticat, E. (2013, August 27). All immigrants are artists. The Atlantic. Retrieved from 
+http://www.theatlantic.com/entertainment/archive/2013/08/all-immigrants- 
+are-artists/279087/
+Delpit, L. (1986). Skills and other dilemmas of a progressive black educator. Harvard Edu-
+cational Review, 56(4), 379–386.
+DiGiacomo, D. K., & Gutiérrez, K. D. (2015). Relational equity as a design tool within mak-
+ing and tinkering activities. Mind, Culture, and Activity, 00, 1–15.
+diSessa, A. A. (2000). Changing minds: Computers, learning, and literacy. Cambridge, MA: Mas-
+sachusetts Institute of Technology Press.
+Dougherty, D. (2011, January). Dale Dougherty: We are makers [Video file]. Retrieved from 
+http://www.ted.com/talks/dale_dougherty_we_are_makers
+Dougherty, D. (2012). The maker movement. innovations, 7(3), 11–14.
+Eglash, R. (2004). Appropriating technology: An introduction. In R. Eglash, J. L. Croissant, 
+G. Di Chiro, & R. Fouché (Eds.), Appropriating technology: Vernacular science and social 
+power (pp. vii–xxi). Minneapolis: University of Minnesota Press.
+Elias, M. (2013). The school-to-prison pipeline. Teaching Tolerance, 52(43), 39–40.
+Espinoza, M. L., & Vossoughi, S. (2014). Perceiving learning anew: Social interaction, dig-
+nity, and educational rights. Harvard Educational Review, 84(3), 285–313.
+González, N., Moll, L. C., & Amanti, C. (Eds.). (2005). Funds of knowledge: Theorizing practice 
+in households, communities, and classrooms. New York: Routledge.
+Gutiérrez, K. D. (2008). Developing a sociocritical literacy in the third space. Reading 
+Research Quarterly, 43(2), 148–164.
+Gutiérrez, K. D., & Jaramillo, N. E. (2006). Looking for educational equity: The conse-
+quences of relying on Brown. Yearbook of the National Society for the Study of Education, 
+105(2), 173–189. 
+Gutiérrez, K. D., & Rogoff, B. (2003). Cultural ways of learning: Individual traits or reper-
+toires of practice. Educational Researcher, 32(5), 19–25. 
+Gutwill, J. P., Hido, N., & Sindorf, L. (2015). Research to practice: Observing learning in 
+tinkering activities. Curator: The Museum Journal, 58(2), 151–168.
+Halverson, E. R., & Sheridan, K. (2014). The maker movement in education. Harvard Edu-
+cational Review, 84(4), 495–504.
+Harding, S. (Ed.). (1993). The racial economy of science. Bloomington: Indiana University 
+Press.
+Hatch, M. (2014). The maker movement manifesto. New York: McGraw-Hill. 
+Honey, M., & Kanter, D. (2013). Design-make-play: Growing the next generation of science innova-
+tors. New York: New York Hall of Science. 
+Hooper, P. (1998). They have their own thoughts: Children’s learning of computational ideas from 
+a cultural constructionist perspective. Unpublished doctoral dissertation, Massachussets 
+Institute of Technology.
+230
+Harvard Educational Review
+Hooper, P. (2008). Looking BK and moving FD: Toward a sociocultural lens on learning 
+with programmable media. In T. McPherson (Ed.), Digital youth, innovation, and the 
+unexpected (pp. 123–142). Cambridge, MA: Massachusetts Institute of Technology 
+Press. 
+Hooper, P., & Freed, N. (2013). “The Spiro inquiry”: Exploring the application of an inquiry 
+structure for learning science content to teaching with a digital design fabrication tool. Paper 
+presented at the Digital Fabrication in Education Workshop at IDC, Transformative 
+Learning Technologies Lab, Stanford Graduate School of Education, Stanford, CA.
+Ito, M., Gutiérrez, K., Livingstone, S., Penuel, B., Rhodes, J., Salen, K., et al. (2013). Con-
+nected learning: An agenda for research and design. Digital Media and Learning Research 
+Hub. Retrieved from http://dmlhub.net/wp-content/uploads/files/Connected_
+Learning_report.pdf
+Kafai, Y., Fields, D., & Searle, K. (2014). Electronic textiles as disruptive designs: Support-
+ing and challenging maker activities in schools. Harvard Educational Review, 84(4), 
+532–556.
+Kafai, Y., Searle, K., Martinez, C., & Brayboy, B. (2014). Ethnocomputing with electronic 
+textiles: Culturally responsive open design to broaden participation in computing in 
+American Indian youth and communities. In Proceedings of the 45th ACM technical sym-
+posium on computer science education (pp. 241–246). New York: Association for Comput-
+ing Machinery.
+Kohn, A. (2014, April 6). The downside of “grit.” The Washington Post. Retrieved from 
+http://www.alfiekohn.org/article/downside-grit/
+Lee, C. D. (2001). Is October Brown Chinese? A cultural modeling activity system for under-
+achieving students. American Educational Research Journal, 38(1), 97–141.
+Maker Media. (n.d.). Leading the Maker Movement. Retrieved from: http://makermedia 
+.com/ 
+Martin, L. (2015). The promise of the maker movement for education. Journal of Pre-College 
+Engineering Education Research (J-PEER), 5(1), 30–39.
+Martinez, S. L., & Stager, G. (2013). Invent to learn: Making, tinkering, and engineering in the 
+classroom. Torrance, CA: Constructing Modern Knowledge Press.
+McDermott, R. (2010). The passions of learning in tight circumstances: Toward a political 
+economy of the mind. Yearbook of the National Society for the Study of Education, 109(1), 
+144–159.
+McDermott, R., & Raley, J. (2011). Looking closely: Toward a natural history of human 
+ingenuity. In E. Margolis & L. Pauwels (Eds.), The SAGE handbook of visual research 
+methods (pp. 372–391). Thousand Oaks, CA: SAGE.
+Medin, D. L., & Bang, M. (2014). Who’s asking? Native science, western science, and science educa-
+tion. Cambridge, MA: Massachusetts Institute of Technology Press.
+Morozov, E. (2014, January 13). Making it. The New Yorker. Retrieved from http://www.newy-
+orker.com/magazine/2014/01/13/making-it-2
+Nasir, N. S. (2011). Racialized identities: Race and achievement among African American youth. 
+Palo Alto, CA: Stanford University Press.
+Nasir, N. S., Rosebery, A. S., Warren, B., & Lee, C. D. (2006). Learning as a cultural process: 
+Achieving equity through diversity. In R. K. Sawyer (Ed.), The Cambridge handbook of 
+the learning sciences (pp. 489–504). New York: Cambridge University Press.
+Nasir, N. & Vakil, S. (in press). STEM-focused Academies in Urban Schools: Tensions and 
+Possibilities. Journal of the Learning Sciences. 
+Nelson, A., Tu, T. L. N., & Hines, A. H. (2001). Technicolor: Race, technology, and everyday life. 
+New York: New York University Press.
+Nocon, H., & Cole, M. (2006). School’s invasion of “after-school”: Colonization, rationaliza-
+tion or expansion of access? In Z. Bekerman, N. C. Burbules, & D. Silberman-Keller 
+231
+Making Through the Lens of Culture and Power
+shirin vossoughi,  paula k. hooper, and meg escudé
+(Eds.), Learning in places: The informal education reader (pp. 99–122). New York: Peter 
+Lang.
+Norris, A. (2014). Make-her-spaces as hybrid places: Designing and resisting self construc-
+tions in urban classrooms. Equity & Excellence in Education, 47(1), 63–77.
+Oakes, J. (1999). Limiting students’ school success and life chances: The impact of track-
+ing. In A. C. Ornstein, L. S. Behar-Horenstein, & E. F. Pajak (Eds.), Contemporary issues 
+in curriculum (2nd ed., pp. 224–237). Boston: Allyn & Bacon.
+Papert, S. (1980). Mindstorms: Children, computers, and powerful ideas. New York: Basic Books.
+Papert, S. (1993). The children’s machine: Rethinking school in the age of the computer. New York: 
+Basic Books.
+Peppler, K. (2013). STEAM-powered computing education: Using e-textiles to integrate the 
+arts and STEM. Computer, 46(9), 38–43. 
+Petrich, M., Wilkinson, K., & Bevan, B. (2013). It looks like fun, but are they learning? In 
+M. Honey & D. Kanter (Eds.), Design, make, play: Growing the next generation of STEM 
+innovators (pp. 50–70). New York: Routledge. 
+Philip, T., & Garcia, A. (2013). The importance of still teaching the iGeneration: New tech-
+nologies and the centrality of pedagogy. Harvard Educational Review, 83(2), 300–319.
+Rogoff, B. (2003). The cultural nature of human development. New York: Oxford University 
+Press.
+Rose, M. (2011). The mismeasure of teaching and learning: How contemporary school 
+reform fails the test. Dissent, 58(2), 32–38.
+Rose, M. (2014). The mind at work: Valuing the intelligence of the American worker. New York: 
+Penguin Books.
+Ryoo, J. J., Bulalacao, N., Kekelis, L., McLeod, E., & Henriquez, B. (2015, September). Tin-
+kering with “failure”: Equity, learning, and the iterative design process. Paper pre-
+sented at the FabLearn Conference, Stanford University, Stanford, CA. 
+Santo, R. (2013). Towards hacker literacies: What Facebook’s privacy snafus can teach us 
+about empowered technological practices. Digital Culture & Education, 5(1), 18–33.
+Schwartz, L., & Gutierrez, K. (2015). Literacy studies and situated methods: Exploring the 
+social organization of household activity and family media use. In J. Rowsell & K. Pahl 
+(Eds.). The Routledge Handbook of Literacy Studies. New York: Routledge.
+Shaw, A. (1995). Social constructionism and the inner city: Designing environments for social devel-
+opment and urban renewal. Unpublished doctoral dissertation, The Media Lab, Massa-
+chusetts Institute of Technology, Cambridge, MA.
+Sheridan, K., Halverson, E. R., Litts, B., Brahms, L., Jacobs-Priebe, L., & Owens, T. (2014). 
+Learning in the making: A comparative case study of three makerspaces. Harvard 
+Educational Review, 84(4), 505–531.
+Soep, E., & Chávez, V. (2005). Youth radio and the pedagogy of collegiality. Harvard Educa-
+tional Review, 75(4), 409–434. 
+Turkle, S., & Papert, S. (1992). Epistemological pluralism and the revaluation of the con-
+crete. In I. Harel & S. Papert (Eds.), Constructionism (pp. 161–192). Westport, CT: 
+Ablex.
+Vossoughi, S., & Bevan, B. (2014, June). Making and tinkering: A review of the literature. Com-
+missioned paper for Successful Out-of-School STEM Learning: A Consensus Study, 
+Board on Science Education, National Research Council, Washington, DC. Retrieved 
+from http://sites.nationalacademies.org/cs/groups/dbassesite/documents 
+/webpage/dbasse_089888.pdf
+Vossoughi, S., Escudé, M., Kong, F., & Hooper, P. (2013, October). Tinkering, learning and 
+equity in the after-school setting. Paper presented at the annual FabLearn conference, 
+Stanford University, Stanford, CA.
+232
+Harvard Educational Review
+Vossoughi, S., & Vakil, S. (in progress). Towards what ends? A critical analysis of militarism 
+and STEM education. In T. Buenavista & A. Ali (Eds.), At war: Challenging racism, mate-
+rialism, and militarism in education. Manuscript submitted for review.
+White House. (2015). A nation of makers. Retrieved from https://www.whitehouse.gov/
+nation-of-makers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acknowledgments
+We would like to express our deep appreciation to the following people for their thought-
+ful feedback and support of the ideas presented in this paper: Megan Bang, Leah Buech-
+ley, Dionne Champion, Manuel Espinoza, Kris Gutiérrez, Leslie Herrenkohl, Susan Jurow, 
+Walter Kitundu, Fan Kong, Rebecca Lebowitz, Thomas Philip, Mike Rose, Molly Shea, 
+Sepehr Vakil, Max Yurkofsky, and Miguel Zavala. We would also like to thank the anony-
+mous reviewer, whose comments were invaluable to the process of revision. 

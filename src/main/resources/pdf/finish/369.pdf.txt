@@ -1,0 +1,184 @@
+Microblogging is a new form of communication in which
+users can describe their current status in short posts dis-
+tributed by instant messages, mobile phones, email or the
+Web. Twitter, a popular microblogging tool has seen a lot
+of growth since it launched in October, 2006. In this paper,
+we present our observations of the microblogging phenom-
+ena by studying the topological and geographical properties
+of Twitter’s social network. We find that people use mi-
+croblogging to talk about their daily activities and to seek
+or share information. Finally, we analyze the user intentions
+associated at a community level and show how users with
+similar intentions connect with each other.
+
+Categories and Subject Descriptors
+H.3.3 [Information Search and Retrieval]: Information
+Search and Retrieval - Information Filtering; J.4 [Computer
+Applications]: Social and Behavioral Sciences - Economics
+
+General Terms
+Social Network Analysis, User Intent, Microblogging, Social
+Media
+
+1. INTRODUCTION
+
+Microblogging is a relatively new phenomenon defined as “a
+form of blogging that lets you write brief text updates (usu-
+ally less than 200 characters) about your life on the go and
+send them to friends and interested observers via text mes-
+saging, instant messaging (IM), email or the web.” 1. It is
+provided by several services including Twitter2, Jaiku3 and
+more recently Pownce4. These tools provide a light-weight,
+easy form of communication that enables users to broadcast
+and share information about their activities, opinions and
+status. One of the popular microblogging platforms is Twit-
+ter [29]. According to ComScore, within eight months of its
+launch, Twitter had about 94,000 users as of April, 2007 [9].
+Figure 1 shows a snapshot of the first author’s Twitter home-
+page. Updates or posts are made by succinctly describing
+one’s current status within a limit of 140 characters. Top-
+ics range from daily life to current events, news stories, and
+other interests. IM tools including Gtalk, Yahoo and MSN
+have features that allow users to share their current status
+with friends on their buddy lists. Microblogging tools facili-
+tate easily sharing status messages either publicly or within
+a social network.
+
+Compared to regular blogging, microblogging fulfills a need
+for an even faster mode of communication. By encourag-
+ing shorter posts, it lowers users’ requirement of time and
+thought investment for content generation. This is also one
+of its main differentiating factors from blogging in general.
+The second important difference is the frequency of update.
+On average, a prolific bloger may update her blog once ev-
+ery few days; on the other hand a microblogger may post
+several updates in a single day.
+
+With the recent popularity of Twitter and similar microblog-
+ging systems, it is important to understand why and how
+people use these tools. Understanding this will help us
+evolve the microblogging idea and improve both microblog-
+ging client and infrastructure software. We tackle this prob-
+lem by studying the microblogging phenomena and analyz-
+ing different types of user intentions in such systems.
+
+Much of research in user intention detection has focused on
+understanding the intent of a search queries. According to
+Broder [5], the three main categories of search queries are
+navigational, informational and transactional. Understand-
+ing the intention for a search query is very different from
+user intention for content creation. In a survey of bloggers,
+Nardi et al. [26] describe different motivations for “why
+we blog”. Their findings indicate that blogs are used as a
+tool to share daily experiences, opinions and commentary.
+Based on their interviews, they also describe how bloggers
+form communities online that may support different social
+groups in real world. Lento et al. [21] examined the im-
+portance of social relationship in determining if users would
+remain active in a blogging tool called Wallop. A user’s re-
+tention and interest in blogging could be predicted by the
+comments received and continued relationship with other
+active members of the community. Users who are invited by
+people with whom they share pre-exiting social relationships
+tend to stay longer and active in the network. Moreover, cer-
+tain communities were found to have a greater retention rate
+due to existence of such relationships. Mutual awareness in
+a social network has been found effective in discovering com-
+munities [23].
+
+In computational linguists, researchers have studied the prob-
+lem of recognizing the communicative intentions that un-
+derlie utterances in dialog systems and spoken language in-
+terfaces. The foundations of this work go back to Austin
+[2], Stawson [32] and Grice [14]. Grosz [15] and Allen [1]
+carried out classic studies in analyzing the dialogues be-
+tween people and between people and computers in coopera-
+tive task oriented environments. More recently, Matsubara
+[24] has applied intention recognition to improve the per-
+formance of automobile-based spoken dialog system. While
+their work focusses on the analysis of ongoing dialogs be-
+tween two agents in a fairly well defined domain, studying
+user intention in Web-based systems requires looking at both
+the content and link structure.
+
+In this paper, we describe how users have adopted a spe-
+cific microblogging platform, Twitter. Microblogging is rel-
+atively nascent, and to the best of our knowledge, no large
+scale studies have been done on this form of communication
+and information sharing. We study the topological and geo-
+graphical structure of Twitter’s social network and attempt
+to understand the user intentions and community structure
+in microblogging. From our analysis, we find that the main
+types of user intentions are: daily chatter, conversations,
+sharing information and reporting news. Furthermore, users
+play different roles of information source, friends or informa-
+tion seeker in different communities.
+
+The paper is organized as follows: in Section 2, we describe
+the dataset and some of the properties of the underlying
+social network of Twitter users. Section 3 provides an anal-
+ysis of Twitter’s social network and its spread across geogra-
+phies. Next, in Section 4 we describe aggregate user behav-
+ior and community level user intentions. Section 5 provides
+a taxonomy of user intentions. Finally, we summarize our
+findings and conclude with Section 6.
+
+2. DATASET DESCRIPTION
+
+Twitter is currently one of the most popular microblogging
+platforms. Users interact with this system by either using a
+Web interface, IM agent or sending SMS updates. Members
+may choose to make their updates public or available only to
+friends. If user’s profile is made public, her updates appear
+in a “public timeline” of recent updates. The dataset used
+in this study was created by monitoring this public timeline
+for a period of two months starting from April 01, 2007 to
+May 30, 2007. A set of recent updates were fetched once
+every 30 seconds. There are a total of 1,348,543 posts from
+76,177 distinct users in this collection.
+
+Twitter allows a user, A, to “follow” updates from other
+members who are added as “friends”. An individual who is
+not a friend of user A but “follows” her updates is known as
+a “follower”. Thus friendships can either be reciprocated or
+one-way. By using the Twitter developer API5, we fetched
+the social network of all users. We construct a directed
+graph G(V, E), where V represents a set of users and E
+represents the set of “friend” relations. A directed edge e
+exists between two users u and v if user u declares v as
+a friend. There are a total of 87,897 distinct nodes with
+829,053 friend relation between them. There are more nodes
+in this graph due to the fact that some users discovered
+though the link structure do not have any posts during the
+duration in which the data was collected. For each user, we
+also obtained their profile information and mapped their
+location to a geographic coordinate, details of which are
+provided in the following section.
+
+3. MICROBLOGGING IN TWITTER
+
+This section describes some of the characteristic properties
+of Twitter’s Social Network including it’s network topology
+and geographical distribution.
+
+3.1 Growth of Twitter
+
+Since Twitter provides a sequential user and post identifier,
+we can estimate the growth rate of Twitter. Figure 2 shows
+the growth rate for users and Figure 3 shows the growth rate
+for posts in this collection. Since, we do not have access to
+historical data, we can only observe its growth for a two
+month time period. For each day we identify the maximum
+value for the user identifier and post identifier as provided
+by the Twitter API. By observing the change in these val-
+ues, we can roughly estimate the growth of Twitter. It is
+interesting to note that even though Twitter launched in
+2006, it really became popular soon after it won the South
+by SouthWest (SXSW) conference Web Awards6 in March,
+2007. Figure 2 shows the initial growth in users as a result
+of interest and publicity that Twitter generated at this con-
+ference. After this period, the rate at which new users are
+joining the network has slowed. Despite the slow down, the
+number of new posts is constantly growing, approximately
+doubling every month indicating a steady base of users gen-
+erating content.
